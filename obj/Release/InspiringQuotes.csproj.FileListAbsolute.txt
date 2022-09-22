@@ -1,0 +1,16 @@
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\bin\Release\InspiringQuotes.exe.config
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\bin\Release\InspiringQuotes.exe
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\bin\Release\InspiringQuotes.pdb
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.csproj.AssemblyReference.cache
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.csproj.SuggestedBindingRedirects.cache
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\MainWindow.g.cs
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\App.g.cs
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes_MarkupCompile.cache
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes_MarkupCompile.lref
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\MainWindow.baml
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.g.resources
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.Properties.Resources.resources
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.csproj.GenerateResource.cache
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.csproj.CoreCompileInputs.cache
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.exe
+D:\Year-3rd\Windows Programing 20_3\Week_01\20120084_Week01\InspiringQuotes\obj\Release\InspiringQuotes.pdb
